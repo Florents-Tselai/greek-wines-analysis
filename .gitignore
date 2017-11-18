@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+*.ipynb
+houseofwine_gr/__pycache__/
