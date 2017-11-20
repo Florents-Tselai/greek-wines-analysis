@@ -4,3 +4,4 @@ dist/
 build/
 *.egg-info/
 houseofwine_gr/__pycache__/
+venv
